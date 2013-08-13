@@ -10,7 +10,7 @@ npm install lemox
 
 ## Example
 
-```
+```js
 var fs       = require('fs');
 var Writable = require('stream').Writable;
 
