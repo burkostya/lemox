@@ -1,7 +1,7 @@
 {
   "name": "lemox",
   "description": "Simple wrapper of sax.js based on stream2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/burkostya/lemox",
   "author": {
     "name": "Konstantin Burykin",
@@ -21,7 +21,11 @@
     }
   ],
   "main": "lib/lemox",
-  "files": [ "lib", "LICENSE-MIT", "README.md"],
+  "files": [
+    "lib",
+    "LICENSE-MIT",
+    "README.md"
+  ],
   "engines": {
     "node": ">= 0.10.0"
   },
