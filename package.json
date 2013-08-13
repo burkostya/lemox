@@ -21,6 +21,7 @@
     }
   ],
   "main": "lib/lemox",
+  "files": [ "lib", "LICENSE-MIT", "README.md"],
   "engines": {
     "node": ">= 0.10.0"
   },
