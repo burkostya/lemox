@@ -1,5 +1,5 @@
 # lemox
-[![Build Status](https://travis-ci.org/burkostya/lemox.png?branch=master)](https://travis-ci.org/burkostya/lemox)
+[![Build Status](https://travis-ci.org/burkostya/lemox.png?branch=master)](https://travis-ci.org/burkostya/lemox) [![Dependency Status](https://gemnasium.com/burkostya/lemox.png)](https://gemnasium.com/burkostya/lemox)
 
 Simple wrapper of sax.js, based on stream2, created for one purpose only - 
  parsing huge files and extracting nodes with specified name.
