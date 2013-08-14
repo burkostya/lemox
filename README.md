@@ -1,7 +1,7 @@
 # lemox
 [![Build Status](https://travis-ci.org/burkostya/lemox.png?branch=master)](https://travis-ci.org/burkostya/lemox) [![Dependency Status](https://gemnasium.com/burkostya/lemox.png)](https://gemnasium.com/burkostya/lemox) [![NPM version](https://badge.fury.io/js/lemox.png)](http://badge.fury.io/js/lemox)
 
-Simple wrapper of sax.js, based on stream2, created for one purpose only - 
+Simple wrapper around sax.js, based on stream2, created for one purpose only - 
  parsing huge files and extracting nodes with specified name.
 
 ## Instalation
